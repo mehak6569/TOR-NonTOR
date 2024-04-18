@@ -43,5 +43,10 @@ best model for the scenario-2. Although models such as Logistic Regression, Bagg
 ## Conclusion
 Synthetic Minority Oversampling Technique has given a better performance overall compared to the cases with random undersampling, random oversampling and no data sampling. This indicates that when there is an equal distribution of classes among the examples, the performance of the classifier increases with an increasing number of examples. 
 > **Random Forest** has better performance than decision trees, logistic regression in **scenario-1** as a random forest classifier is an ensemble classifier that uses multiple decision tree results to classify a data point. 
-> **XGBoost** gave the better results for the **scenario-2** as compared to random forest, decision trees and even the ensemble of XGBoost and random forest. As can be seen from the results, Random Forest classifier has produced the best performance in classifying the examples in the dataset as TOR or Non-TOR with an F1 score of 99.62% with the SMOTE method and correlation based feature selection for scenario-1. And XGBoost performed better in the scenario-2 with the F1 score of 98.81 followed by the voting classifier with F1 score at 98.93.
+-----
+> **XGBoost** gave the better results for the **scenario-2** as compared to random forest, decision trees and even the ensemble of XGBoost and random forest.
+
+As can be seen from the results, Random Forest classifier has produced the best performance in classifying the examples in the dataset as TOR or Non-TOR with an F1 score of 99.62% with the SMOTE method and correlation based feature selection for scenario-1. And XGBoost performed better in the scenario-2 with the F1 score of 98.81 followed by the voting classifier with F1 score at 98.93.
+
+
 
