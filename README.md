@@ -1,5 +1,13 @@
 # TOR Traffic Detection
 
+### Our Contributors 💫
+<a href="https://github.com/mehak6569/TOR-NonTOR/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mehak6569/TOR-NonTOR" />
+</a>
+
+*Made with [contrib.rocks](https://contrib.rocks)*
+
+
 ## Introduction
 The TOR (Onion Router) network provides a safe place for Internet users to exchange data without revealing their identity and obfuscates the traffic which makes it difficult for potential observers or eavesdroppers to trace the user's online activities. While TOR software has enhanced online privacy for users, it has also paved a way for the criminals to engage in illicit activities while remaining anonymous, thereby posing significant challenges for law enforcement agencies in their efforts to trace and apprehend wrongdoers. Thus, classifying TOR traffic from non-TOR traffic is critical to trace the Darknet users. In addition, it can be effective in intrusion detection systems (IDS) and intrusion prevention systems (IPS) which rely on knowledge of normal network behavior to detect and prevent such attacks.
 
